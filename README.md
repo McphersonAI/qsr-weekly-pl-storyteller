@@ -2,6 +2,14 @@
 
 Turns weekly restaurant KPIs into a plain-English financial narrative — what happened, why it matters, and what to do about it. Built for restaurant and franchise operators who need actionable financial insight, not just another spreadsheet.
 
+## Building with AI agents? Get started with Observa
+
+Observa shows supported OpenClaw and n8n runtime activity, what governance WOULD have done in SHADOW mode, and the evidence behind it.
+
+[**Get started with Observa →**](https://mcphersonai.com/observa/getting-started?utm_source=github&utm_medium=skill-readme&utm_campaign=observa-getting-started&utm_content=qsr-weekly-pl-storyteller)
+
+*SHADOW ONLY · AUTHORITY NONE · ENFORCEMENT OFF. This publisher notice does not change the QSR skill itself.*
+
 ## What it does
 
 QSR Weekly P&L Storyteller converts weekly operating numbers into a structured business narrative an operator can actually use. Instead of staring at KPIs and trying to decide what matters, the skill explains the story behind the numbers and identifies the single most important focus for the next week.
@@ -73,15 +81,3 @@ Commercial redistribution or resale requires written permission from McPherson A
 San Diego, CA
 
 Built by a franchise GM with 16 years in QSR operations.
-
----
-
-## Observa private beta
-
-The Observa private beta is now open for selected n8n and OpenClaw operators and builders. Observa starts in SHADOW mode, mapping agent capabilities, capturing reviewable governance evidence, and independently verifying supported workflow outcomes without taking production control.
-
-Running real n8n or OpenClaw workflows?
-
-[Request private beta access](https://mcphersonai.com/private-beta?utm_source=github&utm_medium=skill-readme&utm_campaign=observa-private-beta&utm_content=qsr-weekly-pl-storyteller)
-
-*This publisher notice does not change this skill’s behavior, data handling, or license.*
